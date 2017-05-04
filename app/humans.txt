@@ -1,0 +1,21 @@
+/* TEAM */
+
+	UI developer: Mina Badawi
+	Twitter: @maria_ux
+	From:London, United Kingdom
+
+/* THANKS */
+
+Tutor: James Sherry
+From:London, United Kingdom
+
+Assistant: Richard Gurney
+From:London, United Kingdom
+
+
+
+/* SITE */
+	Last update:2017/05/04
+	Language: English
+	Doctype:HTML5
+	IDE: Atom
