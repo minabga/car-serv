@@ -16,7 +16,7 @@ $(function() {
     function getServiceAmount(make) {
         $.ajax({
             method: "GET",
-            url: "/getServiceAmount/" + make '/' + model + '/' + cc
+            url: "/getServiceAmount/" + make + '/' + model + '/' + cc
         }).done(function(response) {
             console.log('getServiceAmount result', response);
         }).fail(function(err) {
